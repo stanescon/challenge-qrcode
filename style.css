@@ -1,0 +1,33 @@
+
+body {
+    font-family: 'Outfit', sans-serif;
+    background-color: #d5e1ef;
+}
+.cartao {
+    display: grid;
+    width: 350px;
+    height: 550px;
+    background-color: #FFFFFF;
+    border-radius: 20px;
+    margin: 100px auto;
+    padding-bottom: 30px;
+}
+.qr-code {
+    margin: 10px;
+    justify-self: center;
+    width: 330px;
+    border-radius: 20px;
+}
+.titulo-cartao {
+    font-size: 24px;
+    margin: 10px;
+    text-align: center;
+    justify-self: center;
+    font-weight: bold;
+}
+.texto-cartao {
+    font-size: 18px;
+    margin: 10px;
+    text-align: center;
+    color: #a1a1a1;
+}
